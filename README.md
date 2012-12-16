@@ -47,8 +47,8 @@
 
 ## License
 
-Copyright 2012 Frédéric Bolvin | http://bolvin.de
-Licensed unter the MIT License
+> Copyright 2012 Frédéric Bolvin | http://bolvin.de  
+> Licensed unter the MIT License
 
 ## Release Notes (German)
 
