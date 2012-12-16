@@ -1,0 +1,37 @@
+name: ultiMinePlugin
+main: Fensterbank.ultiMinePlugin.ultiMinePlugin
+version: 0.4.3
+
+commands:
+   modules:
+      description: Zeigt den Status der ultiMinePlugin-Module an.
+      usage: |
+           /<command>
+   lotterie:
+      description: Ermöglicht Teilnahme und Verwaltung der ultiMine-Lotterie.
+      usage: |
+           /<command>
+   ub:
+      description: Kann dem ultiBot Befehle erteilen.
+      usage: |
+           /<command>
+   residencetool:
+      description: Gibt dir das Werkzeug, um Residenzen zu erstellen.
+      usage: |
+           /<command>
+   lag:
+      description: Meldet ein Lagproblem des Servers zur Nachverfolgung.
+      usage: |
+           /<command>
+   stp:
+      description: Gibt die Anzahl der Strafpunkte aus
+      usage: |
+           /<command> [spielername]
+   teamranks:
+      description: Zeigt dir die Bedeutungen der Teamkürzel an.
+      usage: |
+           /<command>
+   news:
+      description: Triggert einen manuellen Broadcast der neuesten News.
+      usage: |
+           /<command>
